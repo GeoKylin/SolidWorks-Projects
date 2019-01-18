@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='1'>
+        <properties>
+            <Name value='CPoint1@plug-5pindin-1@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001:JP27@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='battery1'/>
+            <ToComponentRef value='JP10'/>
+            <Length value='0.136802'/>
+            <AdditionalLength value='0.146802'/>
+            <FromLocation value='0.203835,0.107950,-0.000000'/>
+            <ToLocation value='0.155649,0.076835,-0.103632'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.005292'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='2'>
+        <properties>
+            <Name value='CPoint1@plug-5pindin-2@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001:JP27@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='motor1'/>
+            <ToComponentRef value='JP10'/>
+            <Length value='0.134392'/>
+            <AdditionalLength value='0.144392'/>
+            <FromLocation value='0.203835,0.044450,-0.203200'/>
+            <ToLocation value='0.155649,0.076835,-0.103632'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004313'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='3'>
+        <properties>
+            <Name value='CPoint1@plug-6pin-minidin-1@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001:JP29@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='xcon1'/>
+            <ToComponentRef value='JP6'/>
+            <Length value='0.244201'/>
+            <AdditionalLength value='0.254201'/>
+            <FromLocation value='-0.470281,0.107950,-0.406400'/>
+            <ToLocation value='-0.422095,0.107315,-0.201168'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004817'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='4'>
+        <properties>
+            <Name value='CPoint1@plug-6pin-minidin-2@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001:JP29@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='xcon2'/>
+            <ToComponentRef value='JP6'/>
+            <Length value='0.048253'/>
+            <AdditionalLength value='0.058253'/>
+            <FromLocation value='-0.470281,0.107950,-0.203200'/>
+            <ToLocation value='-0.422095,0.107315,-0.201168'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='CPoint1@plug-6pin-minidin-3@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001:JP29@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='xcon3'/>
+            <ToComponentRef value='JP6'/>
+            <Length value='0.242042'/>
+            <AdditionalLength value='0.252042'/>
+            <FromLocation value='-0.470281,0.107950,-0.000000'/>
+            <ToLocation value='-0.422095,0.107315,-0.201168'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.004000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='6'>
+        <properties>
+            <Name value='JP27@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001:JP29@Harness_1-Study-&#30005;&#27668;&#35774;&#35745;-001'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value=''/>
+            <ToConnectionPoint value=''/>
+            <FromComponentRef value='JP6'/>
+            <ToComponentRef value='JP10'/>
+            <Length value='0.587331'/>
+            <AdditionalLength value='0.587331'/>
+            <FromLocation value='-0.422095,0.107315,-0.201168'/>
+            <ToLocation value='0.155649,0.076835,-0.103632'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.006450'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

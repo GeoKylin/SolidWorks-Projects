@@ -1,0 +1,4 @@
+F:\SolidWorks\SOLIDWORKS\lang\chinese-simplified
+
+Simulation 指导教程：cwonlinetutorial.chm
+SOLIDWORKS 指导教程：swtutorial.chm

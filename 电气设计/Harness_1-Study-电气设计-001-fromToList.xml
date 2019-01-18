@@ -1,0 +1,908 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<fromToList xmlns='http://www.solidworks.com/fromToList'>
+    <version value='3'/>
+ fromToRouteType='route'    <fromToData>
+        <wireID value='1'/>
+        <wireName value='W1'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='Y'/>
+        <swColour value='65535'/>
+        <partNumber value='9982'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='2.5'/>
+        <routedLength value='0.965924'/>
+        <cuttingLength value='0.985924'/>
+        <comments value=''/>
+        <fromCompID value='0'/>
+        <fromCompRef value='motor1'/>
+        <fromPinID value='0'/>
+        <fromPinRef value='1'/>
+        <fromInsert value=''/>
+        <fromCompPart value='5pindin-plug'/>
+        <twistID value='0'/>
+        <twistNumberPerLength value='0.000000'/>
+        <twistPerMetreLength value='0.000000'/>
+        <unitForTwistPerUnitLength value='0'/>
+        <twistedLength value='0.985924'/>
+        <twistedPairName value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='0'/>
+        <toCompRef value='xcon1'/>
+        <toPinID value='0'/>
+        <toPinRef value='1'/>
+        <toCompPart value='plug-6pin-minidin'/>
+        <toInsert value=''/>
+        <owner value='2'/>
+        <minBendRadius value='0.002000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+    <fromToData>
+        <wireID value='2'/>
+        <wireName value='W2'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='W'/>
+        <swColour value='16777215'/>
+        <partNumber value='9983'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='2'/>
+        <routedLength value='0.965924'/>
+        <cuttingLength value='0.985924'/>
+        <comments value=''/>
+        <fromCompID value='0'/>
+        <fromCompRef value='motor1'/>
+        <fromPinID value='0'/>
+        <fromPinRef value='2'/>
+        <fromInsert value=''/>
+        <fromCompPart value='5pindin-plug'/>
+        <twistID value='0'/>
+        <twistNumberPerLength value='0.000000'/>
+        <twistPerMetreLength value='0.000000'/>
+        <unitForTwistPerUnitLength value='0'/>
+        <twistedLength value='0.985924'/>
+        <twistedPairName value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='0'/>
+        <toCompRef value='xcon1'/>
+        <toPinID value='0'/>
+        <toPinRef value='2'/>
+        <toCompPart value='plug-6pin-minidin'/>
+        <toInsert value=''/>
+        <owner value='2'/>
+        <minBendRadius value='0.001000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+    <fromToData>
+        <wireID value='3'/>
+        <wireName value='W3'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='R'/>
+        <swColour value='255'/>
+        <partNumber value='9984'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='16'/>
+        <routedLength value='0.965924'/>
+        <cuttingLength value='0.985924'/>
+        <comments value=''/>
+        <fromCompID value='0'/>
+        <fromCompRef value='motor1'/>
+        <fromPinID value='0'/>
+        <fromPinRef value='3'/>
+        <fromInsert value=''/>
+        <fromCompPart value='5pindin-plug'/>
+        <twistID value='0'/>
+        <twistNumberPerLength value='0.000000'/>
+        <twistPerMetreLength value='0.000000'/>
+        <unitForTwistPerUnitLength value='0'/>
+        <twistedLength value='0.985924'/>
+        <twistedPairName value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='0'/>
+        <toCompRef value='xcon1'/>
+        <toPinID value='0'/>
+        <toPinRef value='1'/>
+        <toCompPart value='plug-6pin-minidin'/>
+        <toInsert value=''/>
+        <owner value='2'/>
+        <minBendRadius value='0.001000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+    <fromToData>
+        <wireID value='4'/>
+        <wireName value='W4'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='B'/>
+        <swColour value='16711680'/>
+        <partNumber value='9985'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='22'/>
+        <routedLength value='0.968333'/>
+        <cuttingLength value='0.988333'/>
+        <comments value=''/>
+        <fromCompID value='0'/>
+        <fromCompRef value='battery1'/>
+        <fromPinID value='0'/>
+        <fromPinRef value='1'/>
+        <fromInsert value=''/>
+        <fromCompPart value='5pindin-plug'/>
+        <twistID value='0'/>
+        <twistNumberPerLength value='0.000000'/>
+        <twistPerMetreLength value='0.000000'/>
+        <unitForTwistPerUnitLength value='0'/>
+        <twistedLength value='0.988333'/>
+        <twistedPairName value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='0'/>
+        <toCompRef value='xcon1'/>
+        <toPinID value='0'/>
+        <toPinRef value='2'/>
+        <toCompPart value='plug-6pin-minidin'/>
+        <toInsert value=''/>
+        <owner value='2'/>
+        <minBendRadius value='0.001000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+    <fromToData>
+        <wireID value='5'/>
+        <wireName value='W5'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='Y'/>
+        <swColour value='65535'/>
+        <partNumber value='9982'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='2.5'/>
+        <routedLength value='0.772386'/>
+        <cuttingLength value='0.792386'/>
+        <comments value=''/>
+        <fromCompID value='0'/>
+        <fromCompRef value='battery1'/>
+        <fromPinID value='0'/>
+        <fromPinRef value='2'/>
+        <fromInsert value=''/>
+        <fromCompPart value='5pindin-plug'/>
+        <twistID value='0'/>
+        <twistNumberPerLength value='0.000000'/>
+        <twistPerMetreLength value='0.000000'/>
+        <unitForTwistPerUnitLength value='0'/>
+        <twistedLength value='0.792386'/>
+        <twistedPairName value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='0'/>
+        <toCompRef value='xcon2'/>
+        <toPinID value='0'/>
+        <toPinRef value='1'/>
+        <toCompPart value='plug-6pin-minidin'/>
+        <toInsert value=''/>
+        <owner value='2'/>
+        <minBendRadius value='0.002000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+    <fromToData>
+        <wireID value='6'/>
+        <wireName value='W6'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='W'/>
+        <swColour value='16777215'/>
+        <partNumber value='9983'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='2'/>
+        <routedLength value='0.772386'/>
+        <cuttingLength value='0.792386'/>
+        <comments value=''/>
+        <fromCompID value='0'/>
+        <fromCompRef value='battery1'/>
+        <fromPinID value='0'/>
+        <fromPinRef value='3'/>
+        <fromInsert value=''/>
+        <fromCompPart value='5pindin-plug'/>
+        <twistID value='0'/>
+        <twistNumberPerLength value='0.000000'/>
+        <twistPerMetreLength value='0.000000'/>
+        <unitForTwistPerUnitLength value='0'/>
+        <twistedLength value='0.792386'/>
+        <twistedPairName value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='0'/>
+        <toCompRef value='xcon2'/>
+        <toPinID value='0'/>
+        <toPinRef value='2'/>
+        <toCompPart value='plug-6pin-minidin'/>
+        <toInsert value=''/>
+        <owner value='2'/>
+        <minBendRadius value='0.001000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+    <fromToData>
+        <wireID value='7'/>
+        <wireName value='W7'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='R'/>
+        <swColour value='255'/>
+        <partNumber value='9984'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='16'/>
+        <routedLength value='0.966175'/>
+        <cuttingLength value='0.986175'/>
+        <comments value=''/>
+        <fromCompID value='0'/>
+        <fromCompRef value='battery1'/>
+        <fromPinID value='0'/>
+        <fromPinRef value='4'/>
+        <fromInsert value=''/>
+        <fromCompPart value='5pindin-plug'/>
+        <twistID value='0'/>
+        <twistNumberPerLength value='0.000000'/>
+        <twistPerMetreLength value='0.000000'/>
+        <unitForTwistPerUnitLength value='0'/>
+        <twistedLength value='0.986175'/>
+        <twistedPairName value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='0'/>
+        <toCompRef value='xcon3'/>
+        <toPinID value='0'/>
+        <toPinRef value='1'/>
+        <toCompPart value='plug-6pin-minidin'/>
+        <toInsert value=''/>
+        <owner value='2'/>
+        <minBendRadius value='0.001000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+    <fromToData>
+        <wireID value='8'/>
+        <wireName value='W8'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='B'/>
+        <swColour value='16711680'/>
+        <partNumber value='9985'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='22'/>
+        <routedLength value='0.966175'/>
+        <cuttingLength value='0.986175'/>
+        <comments value=''/>
+        <fromCompID value='0'/>
+        <fromCompRef value='battery1'/>
+        <fromPinID value='0'/>
+        <fromPinRef value='5'/>
+        <fromInsert value=''/>
+        <fromCompPart value='5pindin-plug'/>
+        <twistID value='0'/>
+        <twistNumberPerLength value='0.000000'/>
+        <twistPerMetreLength value='0.000000'/>
+        <unitForTwistPerUnitLength value='0'/>
+        <twistedLength value='0.986175'/>
+        <twistedPairName value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='0'/>
+        <toCompRef value='xcon3'/>
+        <toPinID value='0'/>
+        <toPinRef value='2'/>
+        <toCompPart value='plug-6pin-minidin'/>
+        <toInsert value=''/>
+        <owner value='2'/>
+        <minBendRadius value='0.001000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+</fromToList>

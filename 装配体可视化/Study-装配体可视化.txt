@@ -1,0 +1,12 @@
+文件名称	数量	MakeOrBuy
+middle-gear	1	M
+base plate	1	M
+drive shaft	1	M
+rubber feet	5	B
+gear- caddy	1	B
+shaft gear	1	B
+middle-gear plate	1	B
+drive shaft pin	1	B
+drive shaft plate	1	B
+shaft washer	2	B
+shaft gear insert	1	B

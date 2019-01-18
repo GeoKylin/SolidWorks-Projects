@@ -1,0 +1,8 @@
+﻿"销轴直径" = 0.87in
+"基体长度"= "D1@Boss-Extrude3"
+"D1@Sketch1"= "销轴直径" + .375'销钉直径比销轴直径大0.375英寸
+"D1@Boss-Extrude1"= "销轴直径" / 1.5
+"D1@Boss-Extrude2"= "基体长度"
+"D1@Sketch4"= "销轴直径" + 0.005
+"D1@Sketch2"= "销轴直径"
+"Chamfer1" = IIF ( "销轴直径" < 1mm , "suppressed" , "unsuppressed" )

@@ -1,6 +1,6 @@
 # git init
 
-git add *.SLDPRT Study* *.sh
+git add *.SLDPRT Study* *.sh */
 
 git status
 
